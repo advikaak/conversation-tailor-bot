@@ -1,0 +1,7 @@
+# Optional future expansion for keyword tuning
+neg_words: [frustrated, angry, upset, annoyed, mad, disappointed]
+pos_words: [great, awesome, love, perfect, thanks, appreciate]
+urgency_words: [asap, urgent, now, today, deadline, immediately]
+formal_markers: [dear, regards, sincerely, sir, madam]
+casual_markers: [hey, lol, btw, omg, haha, kinda, gonna]
+uncertainty_markers: [maybe, "not sure", idk, unsure, perhaps, confused]

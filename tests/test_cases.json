@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Hey can we do this asap? I need it today lol",
+    "expected_style": "concise_business"
+  },
+  {
+    "text": "Dear team, I would appreciate an update. Regards, A.",
+    "expected_style": "formal"
+  },
+  {
+    "text": "I'm frustrated and confused\u2014why isn\u2019t this working?!",
+    "expected_style": "empathetic"
+  },
+  {
+    "text": "Not sure if this is right\u2026 maybe we postpone?",
+    "expected_style": "motivational"
+  },
+  {
+    "text": "Sounds great, thanks!",
+    "expected_style": "concise_business"
+  }
+]
